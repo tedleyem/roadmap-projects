@@ -1,4 +1,3 @@
-FROM alpine:latest.
-MAINTAINER Tedley Meralus <tmeralus@gmail.com>
+FROM alpine:latest
  
-RUN echo "Hello, Captain!" 
+RUN echo "Hello, Captain!"
