@@ -6,4 +6,4 @@
 
 * [Basic Dockerfile](https://roadmap.sh/projects/basic-dockerfile)
 * [Github Pages Deployment](https://roadmap.sh/projects/github-actions-deployment-workflow)
-* [Log Archive bash script]()
+* [Log Archive bash script](https://roadmap.sh/projects/log-archive-tool)
